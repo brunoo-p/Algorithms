@@ -1,0 +1,12 @@
+package com.algorithm.entity;
+
+public enum PositionsEnum {
+  JAVA_DEVELOPER,
+  DOTNET_DEVELOPER,
+  TYPESCRIPT_DEVELOPER,
+  FULL_STACK_DEVELOPER,
+  FRONTEND_DEVELOPER,
+  DATA_SCIENTIST,
+  TESTER,
+  UX_DESIGNER
+}
